@@ -1,0 +1,5 @@
+PassengerJet,Cessna Citation Mustang,480,1343,1795000
+FighterJet,Lockheed Martin F-22 Raptor,1500,1850,143000000
+CargoPlane,Boeing 767,567,3900,217900000
+PassengerJet,Airbus A350,561,9206,366500000
+FighterJet,Sukhoi Su-57,1324,3418,35000000
